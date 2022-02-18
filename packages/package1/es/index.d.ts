@@ -1,1 +1,2 @@
-export declare const a = 10;
+declare const Pack1: () => JSX.Element;
+export default Pack1;

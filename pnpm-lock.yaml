@@ -33,7 +33,7 @@ importers:
       prettier: 2.5.1
       yorkie: 2.0.0
 
-  packages/pack1:
+  packages/package1:
     specifiers:
       '@types/styled-components': 5.1.23
       styled-components: 5.3.3
@@ -42,7 +42,7 @@ importers:
     devDependencies:
       '@types/styled-components': 5.1.23
 
-  packages/pack2:
+  packages/package2:
     specifiers: {}
 
 packages:

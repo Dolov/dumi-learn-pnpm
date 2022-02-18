@@ -1,5 +1,5 @@
 import React from 'react'
-import Pack1 from 'pack1'
+import Pack1 from 'pkg1'
 
 const Home = () => {
   return (
