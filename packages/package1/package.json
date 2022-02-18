@@ -1,0 +1,20 @@
+{
+  "name": "package1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./es/index.js",
+  "module": "./es/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "styled-components": "5.3.3"
+  },
+  "devDependencies": {
+    "@types/styled-components": "5.1.23"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "d034472e8762a7b6ff01bafec131911ded8b2d51"
+}
